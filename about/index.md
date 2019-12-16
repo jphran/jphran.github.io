@@ -1,24 +1,38 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About the Man
+tags: [about, engineer, computer science, mechanical engineer, problem solver]
+date: 2019-12-15
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://jphran.github.io/"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Education
+* B. Sc. in Mechancial Engineering with an emphasis in Robotics and Controls
+    * Magna Cum Laude
+    * Minor in Computer Science
+        * Data Structs and Algorithms
+        * Machine Learning (Spring 2020)
+        * Data Mining (Spring 2020)
+
+
+## Extracurricular
+* <a href="https://formulau.racing">Formula U Racing</a> is a student led FSAE organization. We design, build, and test electric race cars.
+    * Suspension team member, 2016-17 and 2017-18 competition year
+    * Tractive team lead, 2018-19 competition year
+    <!-- * <a href="https://github.com/FormulaU"><b>Controls</b></a> team lead, 2019-20 competition year -->
+    * Controls team lead, 2019-20 competition year
+* <a href="https://belab.mech.utah.edu">Bionic Engineering</a> in Dr. Tomasso Lenzi's research lab. We build the lightest powered prosthesis and assistive exoskeletons in the world.
+* <a href="https://sustainability.utah.edu/edible-campus-gardens/">Edible Campus Gardens</a> volunteer where we grow food for donation.
+
+<!-- Add some pics -->
+## Hobbies
+* Skiier (Alta because it's steeper and deeper)
+* Rock climber 
+* Mountain biker
+* Adventure bike rider ('04 DRZ-400S)
+* Fly fishing
 
 ## Preview
 
