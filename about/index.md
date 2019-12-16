@@ -6,7 +6,7 @@ date: 2019-12-15
 comments: false
 ---
     
-<center><a href="http://jphran.github.io/"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<!-- <center><a href="http://jphran.github.io/"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> -->
 
 ## Education
 * B. Sc. in Mechancial Engineering with an emphasis in Robotics and Controls
@@ -34,6 +34,9 @@ comments: false
 * Adventure bike rider ('04 DRZ-400S)
 * Fly fishing
 
+
+<!-- what came with moon -->
+<!-- 
 ## Preview
 
 {% capture images %}
@@ -48,4 +51,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Install Moon](https://github.com/TaylanTatli/Moon){: .btn} -->
