@@ -16,7 +16,7 @@ sitemap: false
 @import "mixins";
 @import "normalize";
 @import "site";
-@import "typography";
+@import "typography"; //I don't know why but this was super broken. it was unloadable. fixed now with a jekyll update and a redef of path
 @import "elements";
 @import "syntax";
 @import "nav";
