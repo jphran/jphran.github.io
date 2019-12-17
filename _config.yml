@@ -67,7 +67,7 @@ hackernews:         jphran
 # hackster:           jfran
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
