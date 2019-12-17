@@ -28,11 +28,57 @@ comments: false
 
 <!-- Add some pics -->
 ## Hobbies
-* Skiier (Alta because it's steeper and deeper)
-* Rock climber 
-* Mountain biker
-* Adventure bike rider ('04 DRZ-400S)
-* Fly fishing
+
+#### Service
+    {% capture images %}
+    /assets/img/doingGood.jpg
+{% endcapture %}
+{% include gallery images=images caption="Doing Good" cols=2 %}
+
+#### Skiier
+
+{% capture images %}
+    /assets/img/skiing.jpg
+    /assets/img/backcountryski.jpg
+{% endcapture %}
+{% include gallery images=images caption="I'm an Alta guy cause its steeper and deeper" cols=2 %}
+
+#### Rock climber 
+
+{% capture images %}
+    /assets/img/rockClimb.jpg
+    <!-- /assets/img/rockclimbingPosing.jpg -->
+{% endcapture %}
+{% include gallery images=images caption="Mostly sport and bouldering" cols=2 %}
+
+#### Canyoneer
+
+{% capture images %}
+    <!-- /assets/img/canyoneeringEpic.jpg
+    /assets/img/canyoneeringJp.jpg -->
+    /assets/img/canyoneeringSpiderMan.jpg
+{% endcapture %}
+{% include gallery images=images caption="Nothing like some dawn patrol" cols=2 %}
+
+
+#### Mountain biker
+
+#### Adventure bike rider
+
+{% capture images %}
+    /assets/img/drz.jpg
+{% endcapture %}
+{% include gallery images=images caption="'04 DRZ-400S" cols=2 %}
+
+#### Fly fishing
+
+#### Backpacking
+
+{% capture images %}
+    /assets/img/backpacking.jpg
+{% endcapture %}
+{% include gallery images=images caption="Sunning it out" cols=2 %}
+
 
 
 <!-- what came with moon -->
