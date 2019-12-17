@@ -1,16 +1,18 @@
 # Site navigation links
 
-- title: Home
-  url: /
-
-- title: Projects
-  url: /projects/
-
-- title: Hackster
-  url: https://hackster.io/jfran
+# seems a bit redundant
+# - title: Home
+#   url: /
 
 - title: About
   url: /about/
 
-- title: Posts
-  url: /posts/
+- title: Hackster
+  url: https://hackster.io/jfran
+
+- title: Projects
+  url: /projects/
+
+# coming may 2020
+# - title: Posts
+#   url: /posts/
