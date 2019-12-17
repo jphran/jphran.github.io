@@ -11,12 +11,17 @@ source "https://rubygems.org"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", "~> 3.8.5", group: :jekyll_plugins
+
+gem "github-pages", group: :jekyll_plugins
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
-# group :jekyll_plugins do
-#   gem "jekyll-feed", "~> 0.12"
-# end
+group :jekyll_plugins do
+    # gem "jekyll", "~> 3.8.5"
+    gem "jekyll-feed", "~> 0.12"
+    gem "jekyll-sitemap"
+    gem "jekyll-gist"
+    gem 'jekyll-mentions'
+end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
@@ -29,8 +34,8 @@ source "https://rubygems.org"
 # gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # moon theme
-gem "jekyll", ">= 3.6.3"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem 'jekyll-mentions'
-gem 'jekyll-feed'
+# gem "jekyll", "~> 3.8.5"
+# gem "jekyll-sitemap"
+# gem "jekyll-gist"
+# gem 'jekyll-mentions'
+# gem 'jekyll-feed'
