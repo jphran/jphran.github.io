@@ -78,3 +78,4 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, src, vendor/build, CNAME, LICENSE, Rakefile]
+ 
