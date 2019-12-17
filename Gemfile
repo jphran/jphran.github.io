@@ -29,7 +29,7 @@ source "https://rubygems.org"
 # gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # moon theme
-gem "jekyll", "~> 3.2.1"
+gem "jekyll", "~> 3.6.3"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem 'jekyll-mentions'
