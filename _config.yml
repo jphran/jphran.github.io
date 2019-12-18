@@ -1,7 +1,7 @@
 # Site
 title:              Justin Francis
 bio:                '"All we have to decide is what to do with the time that is given us." - J.R.R. Tolkien'
-description:        "A display of Justin Grancis. Embedded systems, mechanical, computer, engineer. Roboticist. Computer scientist. Hobbyist. Outdoorsman. A lover of all fine things"
+description:        "My name is Justin Francis. I'm a graduate from the University of Utah in engineering. This is my site to show a little bit about me and my work."
 reading_time:       true
 words_per_minute:   100
 logo:               'assets/img/logo.png'
@@ -64,6 +64,8 @@ github-url:         jphran
 #keybase:           username
 #xmpp:              username@server.com
 hackernews:         jphran
+
+#TODO: figure out how to get hackster favicon loaded up
 # hackster:           jfran
 
 # Gems
@@ -77,5 +79,5 @@ jekyll-mentions:
 
 # Exclude list
 #TODO: figure out why removing '_site' from the exclude list made the assets populate
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, src, vendor/build, CNAME, LICENSE, Rakefile]
+exclude: [_site, README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, src, vendor/build, CNAME, LICENSE, Rakefile]
  

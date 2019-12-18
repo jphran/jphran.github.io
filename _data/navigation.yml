@@ -1,9 +1,5 @@
 # Site navigation links
 
-# seems a bit redundant
-# - title: Home
-#   url: /
-
 - title: About
   url: /about/
 
@@ -14,5 +10,5 @@
   url: /projects/
 
 # coming may 2020
-# - title: Posts
-#   url: /posts/
+- title: Posts
+  url: /posts/

@@ -1,0 +1,72 @@
+I"
+<!-- <center><a href="http://jphran.github.io/"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> -->
+
+<h2 id="education">Education</h2>
+<ul>
+  <li>B. Sc. in Mechancial Engineering with an emphasis in Robotics and Controls
+    <ul>
+      <li>Magna Cum Laude</li>
+      <li>Minor in Computer Science
+        <ul>
+          <li>Data Structs and Algorithms</li>
+          <li>Machine Learning (Spring 2020)</li>
+          <li>Data Mining (Spring 2020)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="extracurricular">Extracurricular</h2>
+<ul>
+  <li><a href="https://formulau.racing">Formula U Racing</a> is a student led FSAE organization. We design, build, and test electric race cars.
+    <ul>
+      <li>Suspension team member, 2016-17 and 2017-18 competition year</li>
+      <li>Tractive team lead, 2018-19 competition year
+  <!-- * <a href="https://github.com/FormulaU"><b>Controls</b></a> team lead, 2019-20 competition year --></li>
+      <li>Controls team lead, 2019-20 competition year</li>
+    </ul>
+  </li>
+  <li><a href="https://belab.mech.utah.edu">Bionic Engineering</a> in Dr. Tomasso Lenzi’s research lab. We build the lightest powered prosthesis and assistive exoskeletons in the world.</li>
+  <li><a href="https://sustainability.utah.edu/edible-campus-gardens/">Edible Campus Gardens</a> volunteer where we grow food for donation.</li>
+</ul>
+
+<!-- Add some pics -->
+<h2 id="hobbies">Hobbies</h2>
+<ul>
+  <li>Skiier (Alta because it’s steeper and deeper)</li>
+  <li>Rock climber</li>
+  <li>Mountain biker</li>
+  <li>Adventure bike rider (‘04 DRZ-400S)</li>
+  <li>Fly fishing</li>
+</ul>
+
+<!-- what came with moon -->
+<!-- 
+## Preview
+
+
+
+
+
+
+
+
+<figure class="half">
+    
+    <a href="https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png"><img src="https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png" alt=""></a>
+    
+    <a href="https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png"><img src="https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png" alt=""></a>
+    
+    <figcaption>Screenshots of Moon Theme</figcaption>
+</figure>
+
+
+See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+
+## Getting Started
+
+To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+      
+[Install Moon](https://github.com/TaylanTatli/Moon){: .btn} -->
+:ET

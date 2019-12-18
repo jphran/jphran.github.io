@@ -1,6 +1,7 @@
 ---
 layout: post-list
-title: All Posts (coming after graduation, May 2020)
-excerpt: "A List of Posts"
+title: All Posts
+excerpt: "Somethings I've enjoyed throughout my life"
 comments: false
+feature: assets/img/llama.jpg
 ---
