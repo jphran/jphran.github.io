@@ -126,10 +126,12 @@ img {
 .author-photo {
     //included with moon theme
     // background-color: $white;
-    border-radius: 50%;
-    border: 1px transparent $white;
-    height: 150px;
-    width: 150px;
+    background-color: transparent;
+
+    // border-radius: 50%;
+    // border: 1px transparent $white;
+    // height: 150px;
+    // width: 150px;
 }
 .image-right {
     float: right;
