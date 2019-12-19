@@ -1,12 +1,12 @@
 # Site
 title:              Justin Francis
 bio:                '"All we have to decide is what to do with the time that is given us." - J.R.R. Tolkien'
-description:        "My name is Justin Francis. I'm a soon-to-be graduate from the University of Utah in engineering. This is my site to show a little bit about me and my work."
+description:        "I'm a soon-to-be graduate from the University of Utah in engineering. This is my site to show a little bit about me and my work."
 reading_time:       true
 words_per_minute:   100
 logo:               'assets/img/logo.png'
 background:         'assets/img/paintedLandscape.jpg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://jphran.github.io
 
@@ -45,7 +45,7 @@ email:              justinhfrancis@gmail.com
 # facebook:           username
 github-url:         jphran
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-# linkedin:          username
+linkedin:          justin-francis-758321121
 #xing:              username
 # instagram:          username
 #lastfm:            username
