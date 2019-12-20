@@ -81,3 +81,21 @@ jekyll-mentions:
 #TODO: figure out why removing '_site' from the exclude list made the assets populate
 exclude: [_site, README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, src, vendor/build, CNAME, LICENSE, Rakefile]
  
+
+
+
+
+## Sab notes ##
+# About me -> about #
+# uniform font
+# Logo sucks
+# remove bio line 
+# make top of page button larger
+# short -> contact #
+# email -> email addy #
+# background? need deets
+# column text
+# no project list, just a scrollable page
+# move nave menu to right side
+# implement a project menu on the right of a scrollable list
+
