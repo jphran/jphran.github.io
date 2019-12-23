@@ -99,3 +99,22 @@ exclude: [_site, README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, pa
 # move nave menu to right side
 # implement a project menu on the right of a scrollable list
 
+
+## Round two ##
+# change nav menu and landing page to be same theme
+# fixed menu
+# project img on bottom of landing
+# facts (numbers, stats) near projects
+# move hackster to social-links
+# cursor change (triangle)
+# change default background color to blk
+# have logo turn to go up/down 
+
+##fixed menu
+# remove clicakble logo and name on landing page
+# name linkes to about me
+
+
+
+
+
