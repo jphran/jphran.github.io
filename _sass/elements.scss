@@ -14,17 +14,15 @@
 }
 .social-btn {
 	padding: 10px;
-	margin: 10px;
+  margin: 10px;
+  vertical-align: middle;
 	@extend %btnextend;
 }
 .hackster-btn {
 	padding: 10px;
   margin: 10px;
-  // height: 58px;
-  // width: 60.56px;
+  vertical-align: middle;
   @extend %btnextend;
-  text-align: center;
-  background-image: url(/assets/img/hacksterLogo.png);
 }
 .btn {
 	padding: 10px 18px;
