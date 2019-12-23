@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 tags: [about, engineer, computer science, mechanical engineer, problem solver]
 date: 2019-12-15
 comments: false
