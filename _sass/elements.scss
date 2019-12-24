@@ -134,7 +134,8 @@ img {
     image-rendering: optimizeQuality;
 }
 .img-circle {
-	// border-radius: 50%;
+  // border-radius: 50%;
+  // padding: 10px;
 	border: 0px solid $white;
 	height: 100px;
 	width: 100px;
@@ -226,31 +227,35 @@ kbd {
 //project button
 /* Container holding the image and the text */
 .project-container {
-  // display: inline-block;
+  display: inline-block;
+  margin: 30px;
 	max-width: 450px;
   max-height: 150px;
   overflow: hidden;
   vertical-align: middle;
   text-align: center;
-	@include center-block();
-	color: $color_shark;
+  position: relative;
+  @include center-block();
+  color: $white;
 	z-index: 1;
 	border-radius: 3px;
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
-	@include transition(.5s);
-	@media #{$small} {
-		width: 100%;
-	    box-shadow: none;
-	}
-	@media #{$medium} {
-		width: 80%;
-	}
+  @include transition(.5s);
+  
+	// @media #{$small} {
+	// 	width: 100%;
+	//     box-shadow: none;
+	// }
+	// @media #{$medium} {
+	// 	width: 80%;
+	// }
 
 
-  position: relative;
-  text-align: center;
-  // color: transparent;
-  background-color: transparent;
+  &:hover {
+    filter: brightness(100%);
+  }
+  // opacity: 0.8;
+  filter: brightness(70%);
 }
 /* Centered text */
 .project-centered {
@@ -267,6 +272,7 @@ kbd {
 		box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
 		color: $red;
   }
+  // mix-blend-mode: difference;
 }
 // hover
 .project-container:hover .project-centered{
@@ -279,4 +285,8 @@ kbd {
   transition-duration: .5s;
   box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
   color: $red;
+}
+
+.project-centered:hover .project-container{
+  filter: brightness(100%);
 }
