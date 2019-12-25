@@ -33,9 +33,9 @@ disqus_shortname:   justinf
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:        UA-154847318-1
   #verify:
   #ad-client:
   #ad-slot:
