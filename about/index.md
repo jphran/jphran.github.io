@@ -12,6 +12,8 @@ feature: /assets/img/aboutFeat.jpg
     * Magna Cum Laude
     * Minor in Computer Science
         * Data Structs and Algorithms
+        * Software Engineering 1
+        * Software Engineering 2
         * Machine Learning (Spring 2020)
         * Data Mining (Spring 2020)
 
