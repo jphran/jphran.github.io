@@ -16,6 +16,9 @@ feature: /assets/img/aboutFeat.jpg
         * Software Engineering 2
         * Machine Learning (Spring 2020)
         * Data Mining (Spring 2020)
+        * Numerical Methods
+        * Discrete Structures
+        * Object-Oriented Programming
 
 
 ## Extracurricular
