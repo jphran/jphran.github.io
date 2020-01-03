@@ -1,4 +1,5 @@
 //custom pack w hackster logo
+
 @font-face {
   font-family: 'icomoon';
   src:  url('../fonts/icomoon/icomoon.eot?u00x6g');
@@ -27,11 +28,39 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-hacksterLogo .path1:before {
+  content: "\e901";
+  color: rgb(40, 40, 40);
+}
+.icon-hacksterLogo .path2:before {
+  content: "\e902";
+  margin-left: -1.0029296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-hacksterLogo .path3:before {
+  content: "\e903";
+  margin-left: -1.0029296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-hacksterLogo .path4:before {
+  content: "\e904";
+  margin-left: -1.0029296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-hacksterLogo .path5:before {
+  content: "\e905";
+  margin-left: -1.0029296875em;
+  color: rgb(255, 255, 255);
+}
+.icon-hacksterLogo .path6:before {
+  content: "\e906";
+  margin-left: -1.0029296875em;
+  color: rgb(255, 255, 255);
+}
 .icon-hackster:before {
   content: "\e900";
   color: #1bacf7;
 }
-
 
 // Fira Sans
 @font-face{
