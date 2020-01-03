@@ -284,9 +284,12 @@ kbd {
 }
 
 .jf-title {
+  font-size:2rem;
+  font-weight:300;
+  color: $color_shark;
+  
   &:hover{
     transition-duration: .5s;
-		box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
     color: $red;
   }
 }
