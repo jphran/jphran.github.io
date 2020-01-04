@@ -20,6 +20,8 @@ feature: /assets/img/aboutFeat.jpg
         * Discrete Structures
         * Object-Oriented Programming
 
+[View Transcript]({{ site.url }}/assets/files/unofficialTranscript_0120.txt ){: .btn}
+
 
 ## Extracurricular
 * <a href="https://formulau.racing">Formula U Racing</a> is a student led FSAE organization. We design, build, and test electric race cars.
