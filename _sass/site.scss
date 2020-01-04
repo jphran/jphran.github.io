@@ -197,8 +197,6 @@ header .entry-meta {
     @include transition(.5s);
     @media #{$small} {
 		background-image: none !important;
-		// background-repeat: no-repeat;
-		// background-attachment: fixed;
 		background-position: center;
     }
     @media #{$medium} {
@@ -210,8 +208,6 @@ header .entry-meta {
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
-		// background-repeat: no-repeat;
-		// background-attachment: fixed;
 		background-position: center;
     }
     @media #{$notsmall} {
@@ -223,8 +219,6 @@ header .entry-meta {
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
-		// background-repeat: no-repeat;
-		// background-attachment: fixed;
 		background-position: center;
     }
 }
