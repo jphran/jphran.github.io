@@ -197,8 +197,7 @@ header .entry-meta {
     @include transition(.5s);
     @media #{$small} {
 		background-image: none !important;
-
-		background-repeat: no-repeat;
+		// background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: center;
     }
@@ -210,11 +209,8 @@ header .entry-meta {
         margin-top: -2rem;
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
-        // background-blend-mode: multiply;
-        background-blend-mode: darken;
-		// background-position: center center;
-		
-		background-repeat: no-repeat;
+        background-blend-mode: multiply;
+		// background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: center;
     }
@@ -226,11 +222,8 @@ header .entry-meta {
         margin-top: -2rem;
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
-        // background-blend-mode: multiply;
-        background-blend-mode: darken;
-		// background-position: center center;
-		
-		background-repeat: no-repeat;
+        background-blend-mode: multiply;
+		// background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: center;
     }
