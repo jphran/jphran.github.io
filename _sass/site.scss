@@ -196,7 +196,11 @@ header .entry-meta {
 .feature {
     @include transition(.5s);
     @media #{$small} {
-        background-image: none !important;
+		background-image: none !important;
+
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: center;
     }
     @media #{$medium} {
         color: white;
@@ -206,8 +210,13 @@ header .entry-meta {
         margin-top: -2rem;
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
-        background-blend-mode: multiply;
-        background-position: center center;
+        // background-blend-mode: multiply;
+        background-blend-mode: darken;
+		// background-position: center center;
+		
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: center;
     }
     @media #{$notsmall} {
         color: white;
@@ -217,7 +226,12 @@ header .entry-meta {
         margin-top: -2rem;
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
-        background-blend-mode: multiply;
-        background-position: center center;
+        // background-blend-mode: multiply;
+        background-blend-mode: darken;
+		// background-position: center center;
+		
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: center;
     }
 }
