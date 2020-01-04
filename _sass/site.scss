@@ -196,7 +196,7 @@ header .entry-meta {
 .feature {
     @include transition(.5s);
     @media #{$small} {
-        background-image: none !important;
+        background-image: none no-repeat !important;
     }
     @media #{$medium} {
         color: white;
@@ -207,7 +207,7 @@ header .entry-meta {
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
-        background-position: center center;
+        background-position: center center no-repeat;
     }
     @media #{$notsmall} {
         color: white;
@@ -218,6 +218,6 @@ header .entry-meta {
         border-radius: 3px 3px 0 0;
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
-        background-position: center center;
+        background-position: center center no-repeat;
     }
 }
