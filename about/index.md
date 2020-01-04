@@ -29,6 +29,7 @@ feature: /assets/img/aboutFeat.jpg
     <!-- * Controls team lead, 2019-20 competition year -->
 * <a href="https://belab.mech.utah.edu">Bionic Engineering</a> in Dr. Tomasso Lenzi's research lab. We build the lightest powered prosthesis and assistive exoskeletons in the world.
 * <a href="https://sustainability.utah.edu/edible-campus-gardens/">Edible Campus Gardens</a> volunteer where we grow food for donation.
+* <a href="https://utah.sigep.org/">Sigma Phi Epsilon,</a> building balanced men.
 
 [More Projects]({{ site.url }}/projects/ ){: .btn}
 

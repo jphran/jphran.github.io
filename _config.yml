@@ -64,8 +64,6 @@ linkedin:          justin-francis-758321121
 #keybase:           username
 #xmpp:              username@server.com
 # hackernews:         jphran
-
-#TODO: figure out how to get hackster favicon loaded up
 hackster:           jfran
 
 # Gems
@@ -88,7 +86,7 @@ exclude: [_site, README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, pa
 ## Sab notes ##
 # About me -> about #
 # uniform font #
-# Logo sucks
+# Logo sucks #
 # remove bio line #
 # make top of page button larger
 # short -> contact #
@@ -103,16 +101,16 @@ exclude: [_site, README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, pa
 ## Round two ##
 # change nav menu and landing page to be same theme
 # fixed menu
-# project img on bottom of landing
+# project img on bottom of landing #
 # facts (numbers, stats) near projects
-# move hackster to social-links
+# move hackster to social-links #
 # cursor change (triangle)
 # change default background color to blk
 # have logo turn to go up/down 
 
 ##fixed menu
 # remove clicakble logo and name on landing page
-# name linkes to about me
+# name linkes to about me #
 
 
 
