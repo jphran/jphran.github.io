@@ -1,7 +1,7 @@
 # Site
 title:              Justin Francis
 # bio:                ''
-description:        "I'm a soon-to-be graduate from the University of Utah in engineering. This is my site to show a little bit about me and my work."
+description:        "I'm a soon-to-be graduate from the University of Utah as a cross-disciplinary engineer. I have a budding passion for embedded systems and control theory as well as data science. Basically, I like to make things move intelligently and with grace."
 reading_time:       true
 words_per_minute:   100
 logo:               'assets/img/logo1.png'
@@ -29,10 +29,10 @@ sass:
   style:            compressed
 
 # Comments
+#TODO: this is incredibly broken and outdated. Remove.
 disqus_shortname:   justinf
 
 # Social
-# if you don't have any of social below, comment the line.
 google:
   #plus:            #username
   analytics:        UA-154847318-1
@@ -81,7 +81,7 @@ exclude: [_site, README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, pa
  
 
 
-
+######################Website Critique################################
 
 ## Sab notes ##
 # About me -> about #
@@ -112,6 +112,32 @@ exclude: [_site, README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, pa
 # remove clicakble logo and name on landing page
 # name linkes to about me #
 
+
+######################JOB HUNTING################################
+## davies notes on jobs, not website
+
+# Honeeybee robotics (pasadena)
+# nasa jpl
+# adept (owned by omron)
+# omron (san ramone, ca)
+# cat (catepillar)
+# space x
+# blue origin
+# flir drones
+# teal drones
+# setpoint systems robotics
+# ottobok
+# samsung robotics
+
+# center myself bewteen the topics (CS, EE, robo) (cross discplinary)
+# I'm the keystone
+
+# hit up caltech profs and tell them you're interested in robots and jpl (and grad school)
+# maybe linda rogers at caltech/jpl
+# "i'm intersted, shich route would be the best? SURF? SIP?"
+# try backdooring it
+
+# market the potential. show that you've worked with a touch of everything. put esp, pic, rpi, etc.
 
 
 
