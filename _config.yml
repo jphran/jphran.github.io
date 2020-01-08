@@ -1,7 +1,7 @@
 # Site
 title:              Justin Francis
-# bio:                ''
-description:        "I'm a soon-to-be graduate from the University of Utah as a cross-disciplinary engineer. I have a budding passion for embedded systems and control theory as well as data science. Basically, I like to make things move intelligently and with grace."
+bio:                'I have a budding passion for embedded systems and control theory as well as data science. Basically, I like to make things move intelligently and with grace.'
+description:        "I'm a soon-to-be graduate from the University of Utah as a cross-disciplinary engineer."
 reading_time:       true
 words_per_minute:   100
 logo:               'assets/img/logo1.png'
